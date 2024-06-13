@@ -1,9 +1,8 @@
 ---
 title: Treasury DAO Mechanism for Fushuma Network
 description: A decentralized and transparent on-chain management model for the Fushuma Treasury. 
-author: @Dr-ZS 
-status: Idea
-type: Standard Track
+author: Dr-ZS 
+type: Idea
 created: 2024-06-08
 ---
 
