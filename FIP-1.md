@@ -16,7 +16,7 @@ The proposed mechanism aims to establish a self-funded and self-sustained ecosys
 
 ## Motivation
 
-The aim of the Treasury DAO is to support the expansion of the Fushuma ecosystem by leveraging treasury coins for project funding with minimal impact on inflation with respect to the coins in circulation. This proposal addresses key challenges such as market volatility, liquidity limitations, and project valuation accuracy, fostering a self sustained and self funded ecosystem.
+The aim of the Treasury DAO is to support the expansion of the Fushuma ecosystem by leveraging treasury coins for project funding with minimal impact on inflation concerning the coins in circulation. This proposal addresses key challenges such as market volatility, liquidity limitations, and project valuation accuracy, fostering a self-sustained and self-funded ecosystem.
 
 ## Specification
 
@@ -56,11 +56,11 @@ The Treasury DAO consists of two primary pools: the Development Pool and the Liq
 
 ## Rationale
 
-The Treasury DAO mechanism provides a sustainable and transparent funding model, addressing the critical issues of market volatility, liquidity, and project valuation. By leveraging ABCs and decentralized governance, the system ensures continuous funding, fair ecosystem valuation, and active community engagement.
+The Treasury DAO mechanism provides a sustainable and transparent funding model, addressing market volatility, liquidity, and project valuation. By leveraging ABCs and decentralized governance, the system ensures continuous funding, fair ecosystem valuation, and active community engagement.
 
 ## Backwards Compatibility
 
-This propprojectsosal does not affect any existing standards and is fully compatible with existing Ethereum-based protocols and smart contracts.
+This proposal does not affect any existing standards.
 
 ## Exact mathematical model, Parameter selection and Implementation
 
